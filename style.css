@@ -873,7 +873,7 @@ table tbody td {
   }
   /* CART-STYLING */
 
-  .shop-cart {
+  .table-shop-cart {
     overflow-x: auto;
   }
 }
